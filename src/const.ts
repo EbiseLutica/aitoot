@@ -1,0 +1,1 @@
+export const EMULATED_MASTODON_VERSION = '3.4.1';
