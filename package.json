@@ -1,0 +1,25 @@
+{
+  "name": "aitoot",
+  "version": "0.0.1",
+  "description": "A Mastodon-API compatibilty layer for Misskey",
+  "main": "./build/app.js",
+  "repository": "https://github.com/Xeltica/aitoot",
+  "author": "Xeltica",
+  "license": "AGPL",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^27.0.1",
+    "@types/json-bigint": "^1.0.1",
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
+    "@typescript-eslint/parser": "^4.31.0",
+    "eslint": "^7.32.0",
+    "jest": "^27.1.0",
+    "json-bigint": "^1.0.0",
+    "ts-jest": "^27.0.5",
+    "tsc": "^2.0.3",
+    "typescript": "^4.4.2"
+  }
+}
